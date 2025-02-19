@@ -1,0 +1,34 @@
+_repo: Fenella-b-a-novel_75372
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stuart, Henry Longan
+    birthdate: 1875
+    deathdate: 1928
+    gutenberg_agent_id: '57971'
+    url: http://www.gutenberg.org/2009/agents/57971
+description: ''
+gutenberg_issued: '2025-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75372'
+  lccn: '11009898'
+language: en
+pgterms:marc904: https://archive.org/details/fenellaanovel00presgoog
+pgterms:marc905: 20210423115848stuart
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: Emmanuel Ackerman, Mary Meehan and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aGarden City :$bDoubleday, Page & Company, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Women dancers -- Fiction'
+- GITenberg
+title: 'Fenella : $b a novel'
+url: http://www.gutenberg.org/ebooks/75372
